@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Windchill Shortcuts",
+  "version": "1.0.0",
+  "description": "Adds Windchill-specific context-menu shortcuts that open pages in new tabs.",
+  "permissions": ["tabs", "contextMenus"],
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "action": {
+    "default_title": "Windchill Shortcuts"
+  }
+}
