@@ -14,7 +14,6 @@ const MENU_ROOT_ID = "windchill-shortcuts";
 
 const MENU_ITEMS = [
   { id: "home", title: "Open Windchill Home" },
-  { id: "search", title: "Open Windchill Search" },
   { id: "serverStatus", title: "Open Windchill Server Status" },
   { id: "logFileViewer", title: "Open Windchill Log File Viewer" },
   { id: "logLevel", title: "Open Windchill Log Level" },
